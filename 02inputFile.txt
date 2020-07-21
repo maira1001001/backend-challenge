@@ -1,0 +1,6 @@
+Recap: DeFi Week of July 6
+Camila Russo
+Hello Defiers, hope you’re having a great weekend :)
+
+Summing up last week: 
+Yield farming is producing unintended consequences as demand for Dai as a way to access governance tokens, is causing it to trade above $1, while Compound Finance users are borrowing from their own supply. But that’s not stopping DeFi platforms any time soon and mStable and bZx announced their token distributions, while users flooded Kyber network to get their hands on KNC. Binance listed SNX was more evidence of demand for DeFi tokens, and CENTRE blacklisting an Ethereum address holding $100k of USDC proved decentralization purists right. Anonymous DeFi builder Molly Wintermute said she’s pushing ahead with Hegic after releasing a first version of the platform with a bug in the code. OMG Network’s Vansa Chatikavanij talked Ethereum scaling and why value transfer is a basic human need.

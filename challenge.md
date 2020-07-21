@@ -1,26 +1,21 @@
 <!-- @format -->
 
-# Technical Quiz
+# Treasury Prime Quiz challenge
 
-1. Position: Clojure Software Engineer
-2. Location: San Francisco, CA, US
+Below are 6 questions on the Treasury Prime Technical Quiz.
 
-Below are 6 questions on the Technical Quiz.
+Please email back when done. Here are the ground rules:
 
+- Try to keep your answers brief.
 - The quiz is open book, open internet, but no other collaboration is allowed.
+- Please don't post the questions or answers on the public internet - for example, don't put it on a public github repo.
 - You may use any programming languages (e.g. C, Ruby, Java, Clojure, etc) you wish to illustrate your answers.
 - You can do it all in one language, or many.
 - It's important that you answer all the questions correctly.
 
 Good Luck!
 
-# First Quiz
-
 1. Given a one dimensional array of data write a function that returns a new array with the data reversed. Don't just use the reverse function that is built into your environment.
-
-- execution: `node 01reverseArray.js`
-
-# Second Quiz
 
 2. Write a quick and dirty program (not just a standalone function) to print a count of all the different "words" in a text file. Use any definition of word that makes logical sense or makes your job easy.
 
@@ -40,27 +35,11 @@ The output should be sorted like this:
 
 For this input file, the word "a" occurred 17 times, "the" 14 times, etc.
 
-- execution: `node 02wordsCounter.js` (it read from `02inputFile.txt` file)
-
-# Third Quiz
-
 3. Write a function that returns M random non-negative integers less than some value N. Each integer must also be unique.
-
-- execution: `node 03randomNonNegativeInt.js`
-
-# Fourth Quiz
 
 4. Given a one dimensional array of data write a function that return M random elements of that array. Each element must also be from a different position in the array. Don't just use the sample function that is built into your environment.
 
-- execution `node 04randomData.js`
-
-# Fifth Quiz
-
 5. Briefly describe how a DNS server works.
-
-- location: `05howDNSWorks.md`
-
-# Sixth Quiz
 
 6. Consider a directed graph of small non-negative integers where each integer is less than 60,000 and each integer is unique. In this case, a directed graph is a data structure where a node is represented by a unique integer and each node has zero or more child nodes. As above, don't just use an existing graph library.
 
@@ -79,5 +58,3 @@ Here is a simple example graph without cycles:
 5 -> 6
 6 -> No children
 ```
-
-- execution `node 06graph.js`
